@@ -1,0 +1,7 @@
+C:\Users\dominio 1\source\repos\ExerciciosDoHidek\Exercicios4\Exercicios4\bin\Debug\Exercicios4.exe.config
+C:\Users\dominio 1\source\repos\ExerciciosDoHidek\Exercicios4\Exercicios4\bin\Debug\Exercicios4.exe
+C:\Users\dominio 1\source\repos\ExerciciosDoHidek\Exercicios4\Exercicios4\bin\Debug\Exercicios4.pdb
+C:\Users\dominio 1\source\repos\ExerciciosDoHidek\Exercicios4\Exercicios4\obj\Debug\Exercicios4.csproj.AssemblyReference.cache
+C:\Users\dominio 1\source\repos\ExerciciosDoHidek\Exercicios4\Exercicios4\obj\Debug\Exercicios4.csproj.CoreCompileInputs.cache
+C:\Users\dominio 1\source\repos\ExerciciosDoHidek\Exercicios4\Exercicios4\obj\Debug\Exercicios4.exe
+C:\Users\dominio 1\source\repos\ExerciciosDoHidek\Exercicios4\Exercicios4\obj\Debug\Exercicios4.pdb
